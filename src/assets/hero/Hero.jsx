@@ -15,7 +15,7 @@ function Hero(props) {
         <h3>{props.heading}</h3>
        
         <h1>{props.title} <span className={props.content}> </span></h1>
-        <p>"{props.text}"</p>
+        <p>&quot;{props.text}&quot;</p>
         <a href={props.url} className={props.btnClass}>{props.buttonText} </a>
       </div>
     </>
