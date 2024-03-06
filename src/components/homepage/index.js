@@ -13,7 +13,7 @@ const Homepage = () => {
     heading="Welcome To India"
     content="change_content"
     text="India once is not enough"
-    buttonText="Travel Plan"
+    buttonText="Travel Plans"
     url="/"
     btnClass="show"
     />
